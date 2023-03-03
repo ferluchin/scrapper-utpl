@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "async": "^3.2.4",
+    "cheerio": "^1.0.0-rc.12",
+    "exceljs": "^4.3.0",
+    "google-scholar": "^1.5.1",
+    "iconv-lite": "^0.6.3",
+    "request": "^2.88.2",
+    "scholarly": "^1.1.1",
+    "xlsx": "^0.18.5"
+  }
+}
